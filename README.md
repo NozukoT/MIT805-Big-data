@@ -30,7 +30,7 @@ The data set is made of multiple data sources from the DonorsChoose.org comprisi
 
 The projects dataset was released in January 2018, for data posted over a 6 year period from 2013 to 2018 year. There has been no updated information after 2018 on the Kaggle website.
 
-## Current Version:
+## Current Version
 
 Version 8. The last update was on 2018-05-14 when it was created 2018-04-26.
 
@@ -44,7 +44,7 @@ The software development employs MapReduce Hadoop to crunch large data on comfor
 on one or across multiple computers at a high speed. Hadoop is versatile to be deployed on streaming data and compatible with Java, Python for machine
 learning techniques.
 
-# Visualization:
+# Visualization
 
 For this framework that allows the big data visualization and providing data insights, tools such as Plotly, Tableau, Streamlit will be utilized for bringing and deployment of insights for use.
 
